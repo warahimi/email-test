@@ -11,6 +11,7 @@ function App() {
   return (
     <>
       <ContactForm />
+      <h6>Wahidullah Rahimi</h6>
     </>
   );
 }
